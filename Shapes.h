@@ -1,5 +1,11 @@
 #pragma once
 
+// --------------------------- Credits --------------------------- //
+// All the maths is done by xic_man @ discord
+// The rest is me MythicalForce (making it beautiful and organized)
+// --------------------------- Credits --------------------------- //
+
+
 #include <Arduino.h>
 #include "Config.h"
 #include "Animation.h"
